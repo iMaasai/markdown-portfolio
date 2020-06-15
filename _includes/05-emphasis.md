@@ -1,0 +1,1 @@
+I am an up and coming **data scientist**, with previous experience in various IT fields. I have done much of my work in _SQL_ databases and got introduced to the idea of **business intelligence** through that. I have gained skills in __Python__, __Pandas__, __MATLAB__ and _Machine Learning_, becoming a foundation to my steps as a bona fide ___data scientist___.
